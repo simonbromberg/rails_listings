@@ -1,0 +1,80 @@
+{ "results": [
+	{
+        "address_1": "107 E 42nd St",
+        "address_2": "Lower Concourse",
+        "branch": "Grand Central Terminal",
+        "city": "New York",
+        "country": "United States",
+        "email": "info@magnoliabakery.com",
+        "facebook": "107854079258086",
+        "instagram": "magnoliabakery",
+        "location": {
+            "__type": "GeoPoint",
+            "latitude": 40.752523,
+            "longitude": -73.976747
+        },
+        "logo_url": "http://i.imgur.com/YqwgWNc.jpg",
+        "name": "Magnolia Bakery",
+        "neighborhood": "Midtown East",
+        "phone": "212-682-3588",
+        "postal_code": "10017",
+        "state": "NY",
+        "twitter": "magnoliabakery",
+        "updatedAt": "2015-03-30T19:50:10.940Z",
+        "website": "http://www.magnoliabakery.com/",
+        "yelp": "magnolia-bakery-new-york-5"
+    },
+    {
+        "address_1": "401 Bleecker St",
+        "branch": "Bleecker Street",
+        "city": "New York",
+        "country": "United States",
+        "cross_street": "11th",
+        "email": "info@magnoliabakery.com",
+        "facebook": "107854079258086",
+        "instagram": "magnoliabakery",
+        "location": {
+            "__type": "GeoPoint",
+            "latitude": 40.735868,
+            "longitude": -74.005031
+        },
+        "logo_url": "http://i.imgur.com/YqwgWNc.jpg",
+        "name": "Magnolia Bakery",
+        "neighborhood": "West Village",
+        "objectId": "R3UqlxYDsO",
+        "phone": "212-462-2572",
+        "postal_code": "10014",
+        "state": "NY",
+        "twitter": "magnoliabakery",
+        "updatedAt": "2015-03-30T19:50:09.981Z",
+        "website": "http://www.magnoliabakery.com/",
+        "yelp": "magnolia-bakery-new-york"
+    },
+    {
+        "address_1": "2 Penn Plaza",
+        "address_2": "Amtrak Level",
+        "branch": "Penn Station",
+        "city": "New York",
+        "country": "United States",
+        "cross_street": "7th \u0026 31st",
+        "description": "Donuts",
+        "email": "KKGuest@krispykreme.com",
+        "facebook": "130424181000",
+        "instagram": "krispykreme",
+        "location": {
+            "__type": "GeoPoint",
+            "latitude": 40.749717,
+            "longitude": -73.992208
+        },
+        "logo_url": "http://i.imgur.com/H5qfslz.png",
+        "name": "Krispy Kreme",
+        "neighborhood": "Midtown West",
+        "phone": "212-695-0428",
+        "postal_code": "10001",
+        "state": "NY",
+        "twitter": "krispykreme",
+        "updatedAt": "2015-04-15T18:09:17.035Z",
+        "website": "http://www.krispykreme.com/location/new-york",
+        "yelp": "krispy-kreme-doughnuts-new-york-3"
+    }
+] }

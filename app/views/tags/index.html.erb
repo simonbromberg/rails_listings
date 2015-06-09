@@ -1,0 +1,11 @@
+<div class = "main">
+	<div class = "container">
+		<%= link_to "Back", "/" %>
+		<h1> Tags </h1>
+		<ul>
+			<% @tags.each do |t| %>
+			<li> <%= t.name %> </li>
+			<% end %>
+		</ul>
+	</div>
+</div>
